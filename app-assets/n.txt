@@ -1,0 +1,4 @@
+i am a txt file
+abc
+def
+hij
