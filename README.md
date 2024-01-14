@@ -4,4 +4,6 @@ Full list and progress is available on this Excel document - http://cdn-apps.nm.
 ## Hosted CDN
 http://cdn-apps.nm.ext.dink.cf/
 ## Copyright
+If you plan to use, download, share files from this repo or use the CDN, **please link this repository**.
+<br>
 All copyright belongs to Microsoft and application owners. For archival reasons only.
